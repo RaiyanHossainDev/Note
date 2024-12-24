@@ -5,7 +5,7 @@ import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
 import { IoEye, IoEyeOffSharp }                from 'react-icons/io5';
 import { Bounce, toast }                       from 'react-toastify';
 import { useDispatch, useSelector }            from 'react-redux';
-import { userData }                            from '../Slice/UserSlice';
+import { userData } from '../../slice/userSlice';
 
 
 
