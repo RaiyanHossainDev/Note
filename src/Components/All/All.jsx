@@ -8,8 +8,6 @@ import { TbDotsCircleHorizontal }                               from 'react-icon
 import { MdOutlinePushPin }                                     from 'react-icons/md';
 import { FaEdit, FaTrash }                                      from 'react-icons/fa';
 import { Link }                                                 from 'react-router-dom';
-import { Bounce, toast }                                        from 'react-toastify';
-import { ImCross }                                              from 'react-icons/im';
 
 
 const All = () => {
